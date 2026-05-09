@@ -13,7 +13,7 @@ Use this section to add high-level screenshots for quick context.
 ![Settings Page](images/settings.png)
 
 
-Itfeatures include:
+It features include:
 - Create and organize prompts by category.
 - Refine rough prompt drafts into a structured format using AI so that you can get the maximum output out of it.
 - Save, edit, delete, search, filter, favorite, and copy prompts.
@@ -23,7 +23,7 @@ The project has two parts:
 - `client/`: React + TypeScript + Vite frontend.
 - `server/`: Express API with Supabase persistence and OpenAI-based refinement.
 
-## What the app does
+## What the app does ?
 
 ### Core user workflow
 1. Go to **Studio** and write a prompt draft.
