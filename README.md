@@ -4,9 +4,6 @@ Prompt App is a full-stack prompt engineering workspace.
 
 ## Visual Preview
 
-Use this section to add high-level screenshots for quick context.
-
-### Main Screens Overview
 
 ![Studio Page](images/main.png)
 ![Library Page](images/prompt.png)
