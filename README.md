@@ -1,6 +1,6 @@
 # Prompt Studio
 
-Prompt App is a full-stack prompt engineering workspace.
+Prompt Studio is a full-stack prompt engineering workspace.
 
 ## Visual Preview
 
